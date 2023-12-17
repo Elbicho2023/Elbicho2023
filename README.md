@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<!--
-**Elbicho2023/Elbicho2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 Here are some ideas to get you started:
 
@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me:Elbicho2023 or Jorge Terceros ...
 - 😄 Pronouns:anti troll ...
 - ⚡ Fun fact:Party math and biology no ...
--->
+
 WElCOME and happy day!
